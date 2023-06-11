@@ -1,2 +1,2 @@
-# DSA_Arrays_Assignments
+# PPT_DSA_Arrays_Strings_Recursion_Assignments
 Assignment on Arrays Practise
